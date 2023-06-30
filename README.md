@@ -5,6 +5,7 @@
 
 ## Index
 1. [Select, Where & Logical Operators](Assignment-1/Assignment_1.md)
+2. [BETWEEN & IN](Assignment-2/Assignment_2.md)
 
 ## Related Download Links
 - [PostgreSQL DBMS](https://www.postgresql.org/download/)
