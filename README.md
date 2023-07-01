@@ -6,6 +6,7 @@
 ## Index
 1. [Select, Where & Logical Operators](Assignment-1/Assignment_1.md)
 2. [Between & In](Assignment-2/Assignment_2.md)
+3. [Like & Ilike](Assignment-3/Assignment_3.md)
 
 ## Related Download Links
 - [PostgreSQL DBMS](https://www.postgresql.org/download/)
