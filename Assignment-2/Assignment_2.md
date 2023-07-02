@@ -1,7 +1,7 @@
 # BETWEEN & IN
 ## Perform the following query scenarios on the ***dvdrental*** sample database.
 
-1. Sort the data in all columns in the movie table provided that the replacement cost value is greater than 12.99, equal and less than 16.99 (use **BETWEEN** - **AND** structure).
+1. Sort the data in all columns in the film table provided that the replacement cost value is greater than 12.99, equal and less than 16.99 (use **BETWEEN** - **AND** structure).
 ```sql
 SELECT * FROM film
 WHERE replacement_cost BETWEEN 12.99 AND 16.98;
@@ -15,7 +15,7 @@ WHERE first_name IN ('Penelope', 'Nick', 'Ed');
 ```
 ![2](assets/2.png)
 
-3. Sort the data in all columns in the movie table with ***rental_rate*** 0.99, 2.99, 4.99 **AND** ***replacement_cost*** 12.99, 15.99, 28.99. (Use the **IN** operator.)
+3. Sort the data in all columns in the film table with ***rental_rate*** 0.99, 2.99, 4.99 **AND** ***replacement_cost*** 12.99, 15.99, 28.99. (Use the **IN** operator.)
 ```sql
 SELECT * FROM film
 WHERE (rental_rate IN (0.99, 2.99, 4.99))
