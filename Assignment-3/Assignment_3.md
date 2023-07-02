@@ -16,14 +16,14 @@ AND country LIKE '%n';
 ```
 ![2](assets/2.png)
 
-3. In the ***title*** column of the movie table, list the movie names containing at least 4 'T' characters, regardless of upper or lower case letters.
+3. In the ***title*** column of the film table, list the film names containing at least 4 'T' characters, regardless of upper or lower case letters.
 ```sql
 SELECT * FROM film
 WHERE (LENGTH(title) - LENGTH(REPLACE(title, 'T', '')) + LENGTH(title) - LENGTH(REPLACE(title, 't', '')) >= 4);
 ```
 ![3](assets/3.png)
 
-4. From the data in all the columns in the movie table, sort the data that starts with the ***title*** 'C' character, has a length greater than 90 **AND** a rental_rate of 2.99.
+4. From the data in all the columns in the film table, sort the data that starts with the ***title*** 'C' character, has a length greater than 90 **AND** a rental_rate of 2.99.
 ```sql
 SELECT * FROM film
 WHERE title LIKE 'C%'
