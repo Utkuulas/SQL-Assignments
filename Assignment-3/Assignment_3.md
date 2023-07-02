@@ -27,6 +27,7 @@ WHERE (LENGTH(title) - LENGTH(REPLACE(title, 'T', '')) + LENGTH(title) - LENGTH(
 ```sql
 SELECT * FROM film
 WHERE title LIKE 'C%'
-AND length > 90 AND rental_rate = 2.99;
+AND length > 90
+AND rental_rate = 2.99;
 ```
 ![4](assets/4.png)
