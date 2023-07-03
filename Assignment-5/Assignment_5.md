@@ -19,7 +19,7 @@ OFFSET 5 LIMIT 5;
 ```
 ![2](assets/2.png)
 
-1. Sort the first 4 data, provided that ***store_id*** is 1 in the descending order according to the ***last_name*** column in the customer table.
+3. Sort the first 4 data, provided that ***store_id*** is 1 in the descending order according to the ***last_name*** column in the customer table.
 ```sql
 SELECT * FROM customer
 WHERE store_id = 1
