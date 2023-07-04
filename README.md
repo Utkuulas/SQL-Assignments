@@ -9,6 +9,7 @@
 3. [Like & Ilike](Assignment-3/Assignment_3.md)
 4. [Distinct & Count](Assignment-4/Assignment_4.md)
 5. [Limit & Offset](Assignment-5/Assignment_5.md)
+6. [Aggregate Functions](Assignment-6/Assignment_6.md)
 
 ## Related Download Links
 - [PostgreSQL DBMS](https://www.postgresql.org/download/)
