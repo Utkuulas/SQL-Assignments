@@ -1,4 +1,4 @@
-# AGGREGATE FUNCTIONS
+# GROUP BY & HAVING
 ## Perform the following query scenarios on the ***dvdrental*** sample database.
 
 1. Group the films in the film table according to their ***rating*** values.
