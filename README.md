@@ -10,6 +10,7 @@
 4. [Distinct & Count](Assignment-4/Assignment_4.md)
 5. [Limit & Offset](Assignment-5/Assignment_5.md)
 6. [Aggregate Functions](Assignment-6/Assignment_6.md)
+7. [Group By & Having](Assignment-6/Assignment_6.md)
 
 ## Related Download Links
 - [PostgreSQL DBMS](https://www.postgresql.org/download/)
