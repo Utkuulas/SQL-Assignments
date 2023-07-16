@@ -178,7 +178,7 @@ RETURNING *;
 ```
 ![6](assets/6.png)
 
-2. Delete the youngest and show the deleted rows.
+2. Delete the youngest and show the deleted row.
 ```sql
 DELETE FROM employee
 WHERE birthday IN (
