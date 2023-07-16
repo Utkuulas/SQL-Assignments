@@ -11,6 +11,7 @@
 5. [Limit & Offset](Assignment-5/Assignment_5.md)
 6. [Aggregate Functions](Assignment-6/Assignment_6.md)
 7. [Group By & Having](Assignment-7/Assignment_7.md)
+8. [Create & Update Table](Assignment-8/Assignment_8.md)
 
 ## Related Download Links
 - [PostgreSQL DBMS](https://www.postgresql.org/download/)
